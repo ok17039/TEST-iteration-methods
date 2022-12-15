@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671105920 source:r:\projects\iteracenelinearnich\main.c
+	"gvid.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1593694234 r:\projects\iteracenelinearnich\gvid.h
+
